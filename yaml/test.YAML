@@ -1,0 +1,10 @@
+name: Prin
+
+description: Default FlipWitch Template
+
+game: FlipWitch
+requires:
+  version: 0.4.4 # Version of Archipelago required for this yaml to work as expected.
+
+FlipWitch:
+  progression_balancing: 50
